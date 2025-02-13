@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qxv1PEERILZNWnIEHtpxJ+WGjoUYnlV3LVkhzEuKJ6vlBpr6D/V2IdiAWBBs8e2wLEMaHsHDFF1Txm29zLomAA==",
+  "success": true,
+  "projectFilePath": "/Users/ulyanaeskova/RiderProjects/Zoopark/Zoopark/Zoopark.csproj",
+  "expectedPackageFiles": [
+    "/Users/ulyanaeskova/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/ulyanaeskova/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
