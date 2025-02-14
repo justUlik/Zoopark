@@ -48,8 +48,8 @@ class Program
                     break;
             }
             
-            Console.WriteLine("Press any symbol to perform other actions or press ESCAPE to finish program");
-        } while (Console.ReadKey().Key != ConsoleKey.Escape);
+            Console.WriteLine("Press any symbol to perform other actions or press Tab to finish program");
+        } while (Console.ReadKey().Key != ConsoleKey.Tab);
     }
 
     static void GetNewAnimal(Zoopark.Zoo zoo)
